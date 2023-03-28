@@ -18,6 +18,8 @@
 <details><summary>📌 Deploy to VPS/Local </summary>
 
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/J5C0HD)
+
   ```ssh
   git clone https://github.com/NobiDeveloper/Auto-Approve-Bot
   pip3 install -r requirements.txt
