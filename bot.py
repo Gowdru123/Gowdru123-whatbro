@@ -48,7 +48,7 @@ async def op(_, m :Message):
                         InlineKeyboardButton("🗯 Channel", url="https://telegram.dog/ROCKERSBACKUP"),
                         InlineKeyboardButton("💬 Support", url="https://telegram.dog/+jTvy1mvA_cphZTZl")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://telegram.me/Shizuka_filter_bot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://telegram.me/autorequestacceptedbot?startgroup")
                     ]
                 ]
             )
@@ -59,7 +59,7 @@ async def op(_, m :Message):
             keyboar = InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://telegram.me/Shizuka_filter_bot?start=start")
+                        InlineKeyboardButton("💁‍♂️ Start me private 💁‍♂️", url="https://telegram.me/autorequestacceptedbot?start=start")
                     ]
                 ]
             )
@@ -92,7 +92,7 @@ async def chk(_, cb : CallbackQuery):
                         InlineKeyboardButton("🗯 Channel", url="https://telegram.dog/ROCKERSBACKUP"),
                         InlineKeyboardButton("💬 Support", url="https://telegram.dog/+jTvy1mvA_cphZTZl")
                     ],[
-                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://telegram.me/Shizuka_filter_bot?startgroup")
+                        InlineKeyboardButton("➕ Add me to your Chat ➕", url="https://telegram.me/autorequestacceptedbot?startgroup")
                     ]
                 ]
             )
